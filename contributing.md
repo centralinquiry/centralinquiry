@@ -7,14 +7,29 @@ We invite writers, artists, developers, and futurists to help shape the story.
 
 ---
 
-## How to Contribute
+---
 
-1. **Fork this Central Inquiry Repository.**
-2. **Create a branch** for your idea, in your local forked copy e.g., `feature/my-character`, `lore/keya-discovery`, or `docs/cipher-analysis`
-3. **Add your content** in the appropriate folder
-4. **Submit a pull request** with a description of your contribution
+## ✍️ How to Contribute
 
-If merged, your content will be published to [https://centralinquiry.com](https://centralinquiry.com), attributed to your GitHub name as a contributor, and linked to your Bluesky and Lamina1 profiles.
+There are two ways to contribute to the Central Inquiry metaverse:
+
+### 1. Fork + Pull Request
+- Fork this repository
+- Add your content (Markdown, images, code, etc.)
+- Submit a pull request with a short description
+
+### 2. Use Our Issue Templates
+If you’re not comfortable editing files directly, start by opening an issue.
+
+Click **“New Issue”** and choose from our custom templates:
+- 📘 Submit a new character
+- 🧠 Propose a new piece of lore or tech
+- 🎨 Share artwork or visual panels
+- 🔐 Register a Lockb0x NFT
+- 📜 Post a new story thread
+- 🕵️ Decode an Echo Cipher fragment
+
+We’ll help convert your submission into a pull request if it fits the canon.
 
 ---
 
