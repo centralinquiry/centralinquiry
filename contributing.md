@@ -1,5 +1,5 @@
 
-# Contributing to CentralInquiry.com
+# Contributing to node_zero
 
 Welcome to the **Node_Zero Metaverse Project**. This is not just a website or a narrative—it's a living, collaborative metaverse told through code, story threads, decentralized identity, and NFT artifacts.
 
