@@ -9,7 +9,7 @@ We invite writers, artists, developers, and futurists to help shape the story.
 
 ## How to Contribute
 
-1. **Fork the Central Inquiry Repository here [https://centralinquiry.com](https://centralinquiry.com), not this one.**
+1. **Fork this Central Inquiry Repository.**
 2. **Create a branch** for your idea, in your local forked copy e.g., `feature/my-character`, `lore/keya-discovery`, or `docs/cipher-analysis`
 3. **Add your content** in the appropriate folder
 4. **Submit a pull request** with a description of your contribution
