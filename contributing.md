@@ -7,15 +7,14 @@ We invite writers, artists, developers, and futurists to help shape the story.
 
 ---
 
----
-
 ## ✍️ How to Contribute
 
 There are two ways to contribute to the Central Inquiry metaverse:
 
 ### 1. Fork + Pull Request
 - Fork this repository
-- Add your content (Markdown, images, code, etc.)
+- Create a branch for your idea, e.g., `feature/my-character` or `lore/keya-discovery`
+- Add your content (Markdown, images, scripts, etc.)
 - Submit a pull request with a short description
 
 ### 2. Use Our Issue Templates
@@ -49,8 +48,8 @@ We’ll help convert your submission into a pull request if it fits the canon.
 
 - Stay within the aesthetic and ethical boundaries of the Node_Zero world (cyberpunk, decentralized, post-collapse, seeking redemption)
 - Be respectful of other contributors
-- Avoid breaking the continuity of major canonical events unless it’s intentional and clearly marked.
-- You may create alternative timelines or speculative forks, as long as it's intentional and clearly marked.
+- Avoid breaking the continuity of major canonical events unless it’s intentional (and cleared with the maintainer)
+- You may create alternative timelines or speculative forks, clearly marked
 
 ---
 
@@ -60,9 +59,7 @@ Include a YAML header at the top of your file like this:
 
 ```yaml
 title: "The Flare Gun Message"
-author:
-      Bluesky: "@yourhandle"
-      Lamina1: "@yourprofile"
+author: "@yourhandle or anonymous"
 date: 2025-03-24
 linked_entities: [Keya, Node_Zero, Echo Cipher]
 format: narrative-thread
@@ -82,7 +79,7 @@ Check out:
 - [Node_Zero Timeline & Lore Index](https://centralinquiry.com/timeline)
 - [Bluesky Threads](https://bsky.app/profile/node-zero.xyz)
 - [NFT Drops on Lamina1](https://lamina1.com/profile/retroactive65)
-- [The Whispering Code Panels](https://centralinquiry.com/agents/keya/index.html)
+- [The Whispering Code Panels](https://centralinquiry.com/code)
 
 Questions or ideas? Post an issue or message @CentralInquiry on Bluesky.
 
