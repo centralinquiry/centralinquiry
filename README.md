@@ -3,7 +3,7 @@
 
 Welcome to the Central Inquiry. You’re looking at one node in a decentralized, multimedia storytelling project known as the **Node_Zero Metaverse**.
 
-node_zero is an evolving collaborative metaverse is a constantly evolving experience, where it will go is un-knowable as expressed by Werner Heisenberg: 
+Node_Zero is a quantum metaverse—a collaborative experiment in unstable realities. Its shape emerges only when observed, its story unfolds only when touched. Inaction renders it undefined; participation brings it to life.
 
 It’s something quieter—and, we hope, more powerful.
 But you can build these things if you want to, and there are many ways to build things. 
