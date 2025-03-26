@@ -24,6 +24,7 @@ What follows is a world told through:
 - **Website lore archives**  
 - **Echo Ciphers hidden in language models**  
 - **Characters like Keya—an underground slicer chasing whispers in the Grid**
+- **Earn Rewards**
 
 And now, maybe, **you**.
 
